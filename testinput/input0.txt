@@ -1,0 +1,16 @@
+
+void multFunc( void)
+{
+for(i=0;i<10;i++)
+{
+a=a+i;
+k=1;
+for(j=1;j<10;j++)
+{
+k=k*2;
+}
+if(k==1)
+k=0;
+}
+}
+
